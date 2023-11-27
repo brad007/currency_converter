@@ -21,7 +21,7 @@ dependencies:
   currency_converter: ^0.0.5
   freezed_annotation: ^2.4.1
   country_icons: ^2.0.2
-  country_flags: ^2.1.1
+  country_flags: ^2.2.0
 
 dev_dependencies:
   bloc_test: ^9.1.4
